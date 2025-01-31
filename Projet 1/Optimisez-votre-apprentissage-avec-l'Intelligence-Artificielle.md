@@ -18,4 +18,42 @@
   
 * Veillez à la clarté et la précision de vos demandes pour obtenir des résumés utiles et pertinents, en particulier lorsque l'on travaille avec des contenus spécifiques ou des listes à comparer.
   
-* Résumez des documents longs, des articles web, des vidéos YouTube, ou créez des fiches de révision pour économiser un temps précieux. 
+* Résumez des documents longs, des articles web, des vidéos YouTube, ou créez des fiches de révision pour économiser un temps précieux.
+
+## Bien-être
+
+* Comparez et fusionnez des contenus grâce à l'IA.
+  
+* Préparez vos documents de présentation en demandant à l’IA de générer un sommaire ou un brouillon de slides.
+
+* Envoyez à ChatGPT le contenu de votre formation sur le sujet donné ;
+
+* Répondez aux questions générées par ChatGPT.
+
+* Lisez bien les feedbacks de ses réponses, pour bien comprendre vos erreurs.
+
+* N’oubliez pas de garder un esprit critique sur ses propositions.
+
+## Quiz & Test
+
+* Utilisez ChatGPT pour concevoir un quiz sur un sujet spécifique ;
+
+* Paramétrez vos Custom Instructions en précisant bien votre demande :
+
+* Le niveau de difficultés des questions ; Le nombre de questions souhaité ; Le format des questions.
+
+* Créez avec ChatGPT des exercices adaptés à vos besoins d’entraînement et de révision.
+
+* Expliquez-lui le sujet sur lequel vous souhaitez vous entraîner et demandez-lui de créer une activité.
+
+* Demandez-lui s’il peut vous corriger vos réponses à l’activité.
+
+* Envoyez-lui vos réponses et prenez note de ses retours.
+
+## Forme de Texte
+
+* Utilisez des outils comme Lumenor AI pour enrichir vos présentations en y ajoutant des visuels personnalisés, améliorant ainsi l'impact de votre message ;
+
+* Faites-vous assister de l'intelligence artificielle dans la finalisation de vos écrits : relecture orthographique, reformulation, recherche de synonymes ou de terminologie.
+
+* Demandez des feedbacks constructifs sur vos écrits pour en améliorer leur qualité.
