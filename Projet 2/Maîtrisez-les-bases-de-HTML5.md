@@ -1,4 +1,4 @@
-# Résumé du Cours: Découvrez les métiers de développeur
+# Résumé du Cours: Maîtrisez les bases de HTML5
 
 ## Comprenez la différence entre HTML et CSS
 
