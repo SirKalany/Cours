@@ -11,5 +11,3 @@ Dictionnaire des termes développeur Web
 </td>
 </tr>
 </table>
-
-* ``
