@@ -36,13 +36,13 @@
 
 * Nous pouvons distinguer trois types de structures de données basiques :
 
-* - Dans un tableau, les éléments stockés sont disposés de manière contiguë. Chaque case d’un tableau est identifiée à l’aide de son index.
+  - Dans un tableau, les éléments stockés sont disposés de manière contiguë. Chaque case d’un tableau est identifiée à l’aide de son index.
   - Une liste chaînée est une séquence de structures de données, qui sont reliées entre elles par des liens.
   - La table de hachage est une structure de données qui stocke les données de manière associative. Dans une table de hachage, chaque valeur de donnée a sa propre clé unique qui constitue l’identifiant de la case.
  
 * Nous avons également deux autres types de structures de données plus complexes :
 
-* - Dans la structure de données en pile, les éléments sont stockés selon le principe LIFO. Autrement dit, le dernier élément stocké dans une pile sera le premier à sortir.
+  - Dans la structure de données en pile, les éléments sont stockés selon le principe LIFO. Autrement dit, le dernier élément stocké dans une pile sera le premier à sortir.
   - La structure de données en file fonctionne selon le principe FIFO où le premier élément stocké dans la file sera le premier à sortir.
 
 ## Familiarisez-vous avec les arbres
